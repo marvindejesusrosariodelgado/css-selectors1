@@ -25,3 +25,9 @@ es muy parecido al padre e hijo pero este Selección los li que estén siguiente
 # Selectores por atributos
 
 El selector de atributos CSS coincide con los elementos en función de la presencia o el valor de un atributo determinado. Selecciona los elementos que tienen el atributo.
+
+# Selectores por clase
+
+El protagonista de las clases es el punto . Las classes no tienen que ser unicas como los ID.
+Puedes aplicar varias clases a un mismo objeto solo tienes que separarlas con espacios class=
+"btn warning" esta aplica a dos clases una .btn y la otra .warning.
