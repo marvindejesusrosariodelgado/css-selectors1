@@ -16,3 +16,10 @@ Este Selector selecciona los elementos que se encuentran dentro de otros element
 El selector universal se representa con un asterisco (*), significa que todos
 los elementos se aplicara este estilo.
 
+# Selectores de "padre > hijo"
+son aquellos elementos que van a depender directamente de otro elemento. Es decir, es cuando tenemos un elemento 'a' que adentro tiene hijos y su hijo se llama 'b'. Entonces dependen directamente. Si este elemento 'b', a su vez, tiene hijos 'c', no puede depender del primer elemento.
+
+# Selectores de "hermano + hermano"
+
+es muy parecido al padre e hijo pero este Selección los li que estén siguiente el uno al otro.
+
